@@ -88,8 +88,6 @@ font-family: Helvetica, Arial, sans-serif;
     position: relative;
   }
 
-  /* Hero style end  */
-
   .hero-form {
   border: 3px solid #024e76;
   background-color: #fce138;
@@ -130,3 +128,5 @@ font-family: Helvetica, Arial, sans-serif;
     border: none;
     padding: 16px;
   }
+
+   /* Hero style end  */
