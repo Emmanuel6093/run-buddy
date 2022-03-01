@@ -82,6 +82,7 @@ font-family: Helvetica, Arial, sans-serif;
 
   /* Hero style start  */
 
+  /* homepage hero  */
   .hero {
     background-image: url(../images/urban-octo-telegram-main.jpeg);
     height: 600px;
@@ -90,6 +91,7 @@ font-family: Helvetica, Arial, sans-serif;
     position: relative;
   }
 
+ 
   .hero-form {
   border: 3px solid #024e76;
   background-color: #fce138;
